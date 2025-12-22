@@ -1,14 +1,8 @@
 ---
 layout: page
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 ---
-
-## Curriculum Vitae
-
-You can keep this section in **markdown** and update it as your CV changes.
-
-### Summary
 
 - Materials scientist, currently working on solid state batteries. Expertise in metallurgy and ceramic processing, solid state mechanics and electrochemistry.
 
@@ -53,7 +47,7 @@ You can keep this section in **markdown** and update it as your CV changes.
 
 ### Publications
 
-A full list of my research output, demonstrating my ability to produce high quality work is available here: https://scholar.google.com/citations?user=njb2D3kAAAAJ&hl=en
+A full list of my research output, demonstrating my ability to produce high quality work, is available here: [Google Scholar](https://scholar.google.com/citations?user=njb2D3kAAAAJ&hl=en)
 
 ### Contact
 
