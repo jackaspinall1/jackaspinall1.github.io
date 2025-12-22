@@ -6,7 +6,7 @@ permalink: /scientific-work/
 
 ## Scientific Work
 
-By alloying lithium metal, we can change its properties; and therefore change its electrochemical performance. Understanding this, to enable rationally designed lithium alloys for high-performance solid state batteries, has been my main research focus for the past 5 years. Other interests include microstructure-dependent mechanics. I am increasingly working on projects across the solid state battery cell.
+By alloying lithium metal, we can change its properties; and therefore change its electrochemical performance. Understanding this, to enable rationally designed lithium alloys for high-performance solid state batteries, has been my main research focus for the past 5 years. Other interests include microstructure-dependent mechanics.
 
 ### Lithium alloys for solid state batteries.
 
@@ -35,7 +35,7 @@ Here, we employ operando scanning electron microscopy (SEM) to directly visualiz
 
 - **Effect of Microstructure on the Cycling Behavior of Li–In Alloy Anodes for Solid-State Batteries** – _ACS Energy Letters / 2024_  
 
-[![Li–In alloy anodes – thumbnail](/assets/images/InLi-thumbail.jpeg){: .pub-thumb }](https://pubs.acs.org/doi/full/10.1021/acsenergylett.3c02274)
+[![Li–In alloy anodes – thumbnail](/assets/images/InLi-thumbnail.jpg){: .pub-thumb }](https://pubs.acs.org/doi/full/10.1021/acsenergylett.3c02274)
 
 Here we explore a two-phase lithium alloy system of indium and InLi intermetallic. This is a popular solid state counter/reference electrode, which offers low polarization, good accessible capacity, and good cycle life.
 
