@@ -18,10 +18,10 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
+  - {file: "publications.md", title: "Scientific Work", sidebaricon: book}
   - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
   - {file: "cv.md", title: "CV", sidebaricon: file-alt}
-  - {file: "publications.md", title: "Scientific Work", sidebaricon: book}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jack.aspinall@materials.ox.ac.uk"}
