@@ -47,7 +47,7 @@ permalink: /cv/
 
 ### Publications
 
-A full list of my research output, demonstrating my ability to produce high quality work, is available here: [Google Scholar](https://scholar.google.com/citations?user=njb2D3kAAAAJ&hl=en)
+A full list of my research output, is available here: [Google Scholar](https://scholar.google.com/citations?user=njb2D3kAAAAJ&hl=en)
 
 ### Contact
 
