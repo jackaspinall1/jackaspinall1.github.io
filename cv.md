@@ -11,7 +11,7 @@ permalink: /cv/
 - DPhil Materials Science, University of Oxford, Oriel College
 - MEng Materials Science, University of Oxford, Mansfield College 
 - Marling School, Gloucestershire  
-  A Levels in Maths (A*), Further Maths (A*), Physics (A), Chemistry (A*), AS in History (A). GCSE (8A*5A). Top in year.
+  A Levels in Maths (A\*), Further Maths (A\*), Physics (A), Chemistry (A\*), AS in History (A). GCSE (8A\*5A). Top in year.
 
 ### Experience
 

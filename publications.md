@@ -12,7 +12,7 @@ By alloying lithium metal, we can change its properties, and therefore change it
 
 [![High Diffusivity Lithium Intermetallic – thumbnail](/assets/images/LiBi-thumbnail.jpg){: .pub-thumb }](https://www.researchsquare.com/article/rs-6759455/v1)
 
-Here, we explore a two-phase lithium alloy system, comprising lithium–intermetallic and lithium–metallic phases.
+A two-phase lithium alloy system can give exceptionally good performance. The two phases being , comprising lithium–intermetallic and lithium–metal (or similar solid solution).
 
 We demonstrate that the rapid lithium diffusivity in the Li3Bi intermetallic, when combined with a lithium–magnesium matrix, provides continuous fast lithium diffusion pathways that alleviate typical transport limitations during discharge. This work highlights the potential of scalable metallurgical approaches for optimising electrode architecture in solid-state battery systems.
 
