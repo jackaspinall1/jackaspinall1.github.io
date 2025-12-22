@@ -25,6 +25,8 @@ Experimental measurements, supported by computational modelling, quantify the in
 
 - **Impact of metallic interlayers at the lithium-Li6PS5Cl solid electrolyte interface** - _Joule / 2025_
 
+[![Interlayers – thumbnail](/assets/images/interlayer-thumbnail.jpg){: .pub-thumb }](https://www.cell.com/joule/fulltext/S2542-4351(25)00356-3)
+
 Ideally we want to form an alloy electrode during the first charge of a battery from an alloying metal layer (interlayer). How these thin layers of alloying metal lithiate and then plate out lithium impacts performance.
 
 Here, we employ operando scanning electron microscopy (SEM) to directly visualize lithiation dynamics within alloy interlayers and the subsequent evolution of lithium plating at the solid-electrolyte interface. These observations reveal how alloy composition and interfacial chemistry govern lithium morphology and SEI development. The results establish design principles for controlled plating and interfacial stabilization, providing new pathways to improve the performance, lifetime, and commercial viability of anode-less SSBs.
@@ -45,7 +47,7 @@ Despite the limitations of indium-based alloys in commercial applications, the l
 
 - **The impact of magnesium content on lithium-magnesium alloy electrode performance with argyrodite solid electrolytes** – _Nature Communications / 2024_  
 
-[![Li–Mg alloy electrode performance – thumbnail](/assets/images/magnesium-thumbnail.jpeg){: .pub-thumb }](https://www.nature.com/articles/s41467-024-48071-0)
+[![Li–Mg alloy electrode performance – thumbnail](/assets/images/magnesium-thumbnail.jpg){: .pub-thumb }](https://www.nature.com/articles/s41467-024-48071-0)
 
 Solid-state lithium-based batteries offer higher energy density than their Li-ion counterparts. Yet they are limited in terms of negative electrode discharge performance and require high stack pressure during operation. The use of lithium-rich magnesium alloys can circumvent some of these issues.
 
