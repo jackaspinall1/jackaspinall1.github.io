@@ -4,20 +4,31 @@ layout: default
 
 <article>
   {% include meta.html post=page %}
-  {{ content }}
-  {% if site.comments.isso_domain or site.comments.disqus_shortname %}
-    <hr>
-    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
-    {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
-    <noscript>Please enable JavaScript to view comments.</noscript>
+
+  {% if page.external_url %}
+    <p>This post is hosted externally.</p>
+    <p><a href="{{ page.external_url }}" target="_blank" rel="noopener">Continue to the full article</a></p>
+    <script>
+      window.location.href = "{{ page.external_url }}";
+    </script>
+  {% else %}
+    {{ content }}
+    {% if site.comments.isso_domain or site.comments.disqus_shortname %}
+      <hr>
+      {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
+      {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
+      <noscript>Please enable JavaScript to view comments.</noscript>
+    {% endif %}
   {% endif %}
 </article>
 
 {% unless site.show_minimal or site.footer  %}
 {% if page.next.url or page.previous.url %}
+{% unless page.external_url %}
 <footer class="nowrap {% if site.show_frame %}dark{% else %}smooth{% endif %}">
   {% if page.next.url %}<a href="{{ page.next.url | relative_url }}">« {{ page.next.title }}</a> {% endif %}
   {% if page.previous.url %} <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }} »</a>{% endif %}
 </footer>
+{% endunless %}
 {% endif %}
 {% endunless %}

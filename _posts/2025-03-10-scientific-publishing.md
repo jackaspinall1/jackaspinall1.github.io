@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-## A History of scientific publishing
+## A history of scientific publishing
 
 Modern science is tied closely to the publishing system. The publication of ‘impactful’ papers is the primary output of scientific work and is closely tied to career progression of each scientist. Getting publishing right is therefore important to maximise the genuine utility of science for humanity.
 
@@ -51,4 +51,4 @@ The five main opportunities for improvement are as follows:
 
 5. Returning ownership of content to scientists.
 
-Over the coming weeks I will be writing about each of these in turn and discussing the main opportunities for improvement.
+There are several interesting organisations working in this space currently, including AI peer review, preprint servers, semantic search for papers, using websites instead of pdfs for hosting science content, and a number of fields abandoning peer reviewed journals altogether.
