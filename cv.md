@@ -19,7 +19,7 @@ permalink: /cv/
 
 - Manage and lead a team of ~6 people to deliver world-leading research in lithium solid state batteries.
 
-- Selected to deliver lectures to undergraduate students at University of Oxford.
+- Deliver Thermodynamics lectures to undergraduate students at University of Oxford.
 
 - Strong experience across university activities including commercialisation, IP, grant applications, management.
 
@@ -27,7 +27,7 @@ permalink: /cv/
 
 - Secured funding for summer internships and international facility experiments.
 
-- Lead the group’s research effort of alloy anode and solid electrolyte optimisation.
+- Lead research on alloy anode and solid electrolyte optimisation.
 
 - Lead industrial prototyping strategy with Nissan Motors, working to align research development targets with industrial needs and exploit IP towards commercialisation.
 
