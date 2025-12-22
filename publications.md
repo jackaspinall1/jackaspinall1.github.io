@@ -27,9 +27,9 @@ Experimental measurements, supported by computational modelling, quantify the in
 
 [![Interlayers – thumbnail](/assets/images/interlayer-thumbnail.jpg){: .pub-thumb }](https://www.cell.com/joule/fulltext/S2542-4351(25)00356-3)
 
-Ideally we want to form an alloy electrode during the first charge of a battery from an alloying metal layer (interlayer). How these thin layers of alloying metal lithiate and then plate out lithium impacts performance.
+Ideally we want to form an alloy electrode during the first charge of a battery from an alloying metal layer (interlayer). How these thin layers of alloying metal lithiate, and then plate out lithium, impacts battery performance.
 
-Here, we employ operando scanning electron microscopy (SEM) to directly visualize lithiation dynamics within alloy interlayers and the subsequent evolution of lithium plating at the solid-electrolyte interface. These observations reveal how alloy composition and interfacial chemistry govern lithium morphology and SEI development. The results establish design principles for controlled plating and interfacial stabilization, providing new pathways to improve the performance, lifetime, and commercial viability of anode-less SSBs.
+We employ operando scanning electron microscopy (SEM) to directly visualize lithiation dynamics within alloy interlayers and the subsequent evolution of lithium plating at the solid-electrolyte interface. These observations reveal how alloy composition and interfacial chemistry govern lithium morphology and SEI development. The results establish design principles for controlled plating and interfacial stabilization, providing new pathways to improve the performance, lifetime, and commercial viability of anode-less SSBs.
 
   [Read the paper](https://www.cell.com/joule/fulltext/S2542-4351(25)00356-3)
 
