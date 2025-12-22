@@ -6,7 +6,7 @@ permalink: /scientific-work/
 
 ## Scientific Work
 
-By alloying lithium metal, we can change its properties; and therefore change its electrochemical performance. Understanding this, to enable rationally designed lithium alloys for high-performance solid state batteries, has been my main research focus for the past 5 years. Other interests include microstructure-dependent mechanics.
+By alloying lithium metal, we can change its properties, and therefore change its electrochemical performance. Understanding this, to enable rationally designed lithium alloys for high-performance solid state batteries, has been my main research focus for the past 5 years. Other interests include microstructure-dependent mechanics.
 
 ### Lithium alloys for solid state batteries.
 
@@ -72,3 +72,7 @@ This paper also explored EBSD of lithium metal, which is particularly challengin
 
   [Read the paper](https://www.sciencedirect.com/science/article/pii/S2468606922002416)
 
+
+### Other works
+
+A full list of articles I have contributed to can be found on my [Scholar](https://scholar.google.com/citations?user=njb2D3kAAAAJ&hl=en) page.
